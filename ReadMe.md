@@ -61,8 +61,7 @@ This tool is intended **only** for:
 
 ---
 
----
-[![WPHack Demo](https://pin.it/1NfaGLgWG)]([https://pin.it/1NfaGLgWG](https://pin.it/1NfaGLgWG))
+---[![WPHack Demo](https://img.youtube.com/vi/mgNAHP_o-vw/0.jpg)](https://www.youtube.com/watch?v=mgNAHP_o-vw)
 ---
 
 ## 📥 Installation
