@@ -61,7 +61,7 @@ This tool is intended **only** for:
 
 ---
 
-[![Watch the video](https://youtu.be/mgNAHP_o-vw)](https://youtu.be/mgNAHP_o-vw)
+[![Watch the video](https://youtube.com)](https://youtu.be/mgNAHP_o-vw)
 
 ---
 
