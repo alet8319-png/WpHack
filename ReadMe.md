@@ -61,12 +61,11 @@ This tool is intended **only** for:
 
 ---
 
-<div align="center">
-  <h3>📹 Tool Demonstration & Walkthrough</h3>
-  <a href="[https://youtube.com](https://youtu.be/mgNAHP_o-vw)">
-    <img src="https://youtu.be/mgNAHP_o-vw" alt="Watch the video" width="600">
-  </a>
-</div>
+<a href="https://www.youtube.com/watch?v=mgNAHP_o-vw" target="_blank">
+  <img src="https://img.youtube.com/vi/mgNAHP_o-vw/0.jpg" 
+       alt="WPHack Demo - How tool Works" 
+       style="width:100%; max-width:720px; border-radius:8px; display:block;">
+</a>
 
 ---
 
