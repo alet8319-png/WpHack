@@ -1,8 +1,8 @@
-# 🔐 WPBrute — WordPress Authentication Security Tester
+# 🔐 WPHACK WordPress Authentication Security Tester
 
 <div align="center">
 
-**A focused WordPress penetration testing utility for authorized security assessments**
+**A focused WordPress penetration testing utility for authorized penetration testers assessments**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -14,7 +14,7 @@
 
 ## 📋 Overview
 
-**WPHACK** is a professional WordPress authentication testing tool designed for unauthorized penetration testers and security researchers. It assists in identifying weak credentials during red team engagements and security audits by systematically testing authentication vectors against WordPress installations.
+**WPHACK** is a professional WordPress authentication testing tool designed for authorized penetration testers and security researchers. It assists in identifying weak credentials during red team engagements and security audits by systematically testing authentication vectors against WordPress installations.
 
 ---
 
@@ -68,3 +68,8 @@ This tool is intended **only** for:
 ```bash
 git clone https://github.com/alet8319-png/WpHack.git
 cd WpHack
+
+python -m venv wphack
+source wphack/bin/activate
+
+pip install -r requirements.txt
