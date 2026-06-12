@@ -62,13 +62,7 @@ This tool is intended **only** for:
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=mgNAHP_o-vw" target="_blank" style="position:relative; display:inline-block;">
-    <img src="https://img.youtube.com/vi/mgNAHP_o-vw/0.jpg" 
-         alt="WPHack Demo - How tool Works" 
-         style="width:100%; max-width:720px; border-radius:8px;">
-    <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-                 font-size:64px; color:white; text-shadow:2px 2px 8px rgba(0,0,0,0.7);
-                 opacity:0.9;">&#9654;</span>
+  <video src="https://youtube.com" autoplay loop></video>
   </a>
 </p>
 
