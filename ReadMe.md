@@ -61,7 +61,12 @@ This tool is intended **only** for:
 
 ---
 
-[![Watch the video](https://youtube.com)](https://youtu.be/mgNAHP_o-vw)
+<div align="center">
+  <h3>📹 Tool Demonstration & Walkthrough</h3>
+  <a href="https://youtube.com">
+    <img src="https://youtu.be/mgNAHP_o-vw" alt="Watch the video" width="600">
+  </a>
+</div>
 
 ---
 
@@ -79,3 +84,4 @@ source wphack/bin/activate
 pip install -r requirements.txt
 
 python wphack.py
+```
