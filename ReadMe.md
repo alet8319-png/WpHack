@@ -73,3 +73,5 @@ python -m venv wphack
 source wphack/bin/activate
 
 pip install -r requirements.txt
+
+python wphack.py
