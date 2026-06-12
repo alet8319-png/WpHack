@@ -63,7 +63,7 @@ This tool is intended **only** for:
 
 <div align="center">
   <h3>📹 Tool Demonstration & Walkthrough</h3>
-  <a href="https://youtube.com">
+  <a href="[https://youtube.com](https://youtu.be/mgNAHP_o-vw)">
     <img src="https://youtu.be/mgNAHP_o-vw" alt="Watch the video" width="600">
   </a>
 </div>
